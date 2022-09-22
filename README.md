@@ -17,7 +17,7 @@ Checkout this smaple [vedio](https://drive.google.com/file/d/1B2NvzijTvISc9HEp8f
 
 
 <p align="center">
-    <img width="600" height="300" src="https://github.com/23-ryan/Bubble-Trouble-Game/blob/main/Gifs/game1.gif">
+    <img width="500" height="300" src="https://github.com/23-ryan/Bubble-Trouble-Game/blob/main/Gifs/game1.gif">
 </p>
 
 
@@ -26,7 +26,7 @@ Checkout this smaple [vedio](https://drive.google.com/file/d/1B2NvzijTvISc9HEp8f
 
 
 <p align="center">
-    <img width="600" height="300" src="https://github.com/23-ryan/Bubble-Trouble-Game/blob/main/Gifs/game2.gif">
+    <img width="500" height="300" src="https://github.com/23-ryan/Bubble-Trouble-Game/blob/main/Gifs/game2.gif">
 </p>
 
 
