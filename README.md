@@ -2,7 +2,7 @@
 
 ## CS101 Course Project
 
->This course was offered in the first semister of my Undergraduate Program at **IIT Bombay** to teach us the basic fundamentals of **Computer Science** through **C++**
+>This course was offered in the first semister of my Undergraduate Program at **IIT Bombay** to teach us the fundamentals of **Computer Science** through **C++**
 
 
 ## Dowload Project
@@ -31,4 +31,19 @@ Checkout this smaple [vedio](https://drive.google.com/file/d/1B2NvzijTvISc9HEp8f
 
 
 - ### Specific Details
-    - The basic objects it contains are **Shooter**, **Bullets**, **Bubbles**. Some other elements are **Timer** and **Score**.
+    - The basic objects it contains are **Shooter**, **Bullets**, **Bubbles**. Some other elements are **Timer**, **Score** and **Life**.
+    - **Collisions** were introduced among the objects according to basic properties.
+    - **Bubbles** move in a **parabolic** trajectory.
+    - Whenever a bubble hits the shooter its **body color** gets changed and its **life** decreases by one.
+    - Bullets disappear when they hits any bubble.
+    - **Score counter** also updates accordingly, when any bullet make a successful hit with a bubble
+    - Timer has also been added and set to a reasonable frame rate.
+    - The game could end in these ways:
+        - When the player gets devoid of **time**.
+        - When the **life** of shooter ends
+        - When you make all the bubbles disappear.
+    
+### NOTE
+The library is just a simple graphic library and its for beginners to give its users a good experience of programming.
+So the **graphics** rendering is not very good, also there are noticable fluctuations in the **frame rate**.
+
