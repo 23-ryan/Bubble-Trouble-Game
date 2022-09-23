@@ -10,10 +10,10 @@ To get the project files, simply **clone** the following **repository**.
 ```
 git clone https://github.com/23-ryan/Bubble-Trouble-Game
 ```
-Or you can also just download it from [here](https://github.com/23-ryan/Bubble-Trouble-Game/tree/main/src).
+Or you can also just download it from [HERE](https://github.com/23-ryan/Bubble-Trouble-Game/tree/main/src).
 
 ## Project Details
-Checkout this smaple [vedio](https://drive.google.com/file/d/1B2NvzijTvISc9HEp8fQIVN_S_LTWHFmC/view?usp=drivesdk)
+Checkout this smaple [VEDIO](https://drive.google.com/file/d/1B2NvzijTvISc9HEp8fQIVN_S_LTWHFmC/view?usp=drivesdk).
 
 
 <p align="center">
